@@ -7,6 +7,9 @@
     "documentationUrl": "https://google.com/",
     "changelogUrl": "https://google.com/changelog.html",
     "licensesUrl": "https://google.com/licensing.html",
+    "dependencies" : {
+        "com.github.asus4.mediapipe":"2.16.1"
+    },
     "author": {
       "name": "Mathieu BAESEN",
       "email": "mathieu.baesen@sportypeppers.com",
